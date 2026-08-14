@@ -6,3 +6,5 @@ no dependencies at all. Every pixel stays on the device.
 
 Served at [ericspencer.us/hotdog/](https://ericspencer.us/hotdog/) via GitHub
 Pages. The path resolves to this repo, not to the main site repo.
+
+Claude was doing weird stuff to the repos, here's another repo: https://github.com/EricSpencer00/not-hotdog
